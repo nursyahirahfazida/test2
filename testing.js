@@ -1,0 +1,1 @@
+console.log("goodbye my friend it's hard to die lyrics")
